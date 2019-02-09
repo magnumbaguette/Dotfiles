@@ -249,7 +249,7 @@ mode "$mode_system" {
 
 exec_always --no-startup-id feh --randomize --bg-scale /home/claw/Pictures/wallpapers/Landscapes/1490049666110.png
 exec_always --no-startup-id compton --config /home/claw/.config/compton.conf
-exec_always --no-startup-id nm-applet
+#exec_always --no-startup-id nm-applet
 #exec_always --no-startup-id $HOME/bin/polybarlaunch
 #exec_always dunst
 
